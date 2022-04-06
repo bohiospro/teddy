@@ -30,3 +30,9 @@ panorama_FFBA3C5B_F51A_2142_41E3_535074DA4C7F.label = 18
 panorama_FFBA5923_F519_E0C2_41DA_FAE47F8FB508.label = 17
 panorama_FFBA7518_F519_E0CE_41CC_95B6C1C7A7A2.label = 16
 panorama_FFBA7934_F51A_60C6_41E3_D03D2372198F.label = Capa 04
+
+## Acción
+
+### URL
+LinkBehaviour_0F50510C_0094_9760_4154_2BFAF8A94566.source = https://api.whatsapp.com/send?phone=18097225146&text=saludos,%20estuve%20viendo%20los%20tours%20virtuales,%20mas%20informacion%20por%20favor!!
+LinkBehaviour_10A6A260_0097_95A0_414C_889DD96950C0.source = https://api.whatsapp.com/send?phone=18097225146&text=saludos,%20estuve%20viendo%20los%20tours%20virtuales,%20mas%20informacion%20por%20favor!!

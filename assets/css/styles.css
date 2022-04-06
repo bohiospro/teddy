@@ -349,6 +349,7 @@ body.dark-theme {
 
 .projects__button {
   padding: .5rem;
+  margin: 2 2 2 2px;
 }
 
 .projects__card:hover .projects__modal {
