@@ -34,7 +34,7 @@ panorama_FFBA7934_F51A_60C6_41E3_D03D2372198F.label = Capa 04
 ## Acción
 
 ### URL
-LinkBehaviour_1811C16D_0966_6D7C_41A2_1687F05707FF.source = https://www.instagram.com/constru_teddy/?hl=es
-LinkBehaviour_191ADF1D_0963_B6DC_4186_3415979C9C04.source = https://api.whatsapp.com/send?phone=18097225146&text=saludos,%20estuve%20viendo%20los%20tours%20virtuales,%20mas%20informacion%20por%20favor!!
-LinkBehaviour_1934B71D_0962_56DC_41A0_070C62F1F158.source = https://www.instagram.com/constru_teddy/?hl=es
-LinkBehaviour_19775F53_0961_B6A4_4159_F75F61975180.source = https://api.whatsapp.com/send?phone=18097225146&text=saludos,%20estuve%20viendo%20los%20tours%20virtuales,%20mas%20informacion%20por%20favor!!
+LinkBehaviour_1714F223_1A2C_AA45_4184_17103C362F9F.source = https://api.whatsapp.com/send?phone=18097225146&text=saludos,%20estuve%20viendo%20los%20tours%20virtuales,%20mas%20informacion%20por%20favor!!
+LinkBehaviour_1729D5A9_1A24_EE45_41A5_AAB43236B573.source = https://api.whatsapp.com/send?phone=18097225146&text=saludos,%20estuve%20viendo%20los%20tours%20virtuales,%20mas%20informacion%20por%20favor!!
+LinkBehaviour_1772309C_1A2D_E643_419F_6E14D0BD021F.source = https://www.instagram.com/constru_teddy/?hl=es
+LinkBehaviour_1779D923_1A2C_E645_41B5_DDE76DFBC808.source = https://www.instagram.com/constru_teddy/?hl=es
