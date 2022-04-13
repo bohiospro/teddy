@@ -1,0 +1,40 @@
+#: locale=es
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Sin Título 6
+
+## Media
+
+### Título
+album_332DC3A2_2358_FAD0_4194_C91CC084EBAF.label = Álbum de Fotos A1
+album_332DC3A2_2358_FAD0_4194_C91CC084EBAF_0.label = A1
+album_332DC3A2_2358_FAD0_4194_C91CC084EBAF_1.label = A2
+album_332DC3A2_2358_FAD0_4194_C91CC084EBAF_2.label = A3
+album_332DC3A2_2358_FAD0_4194_C91CC084EBAF_3.label = A4
+album_332DC3A2_2358_FAD0_4194_C91CC084EBAF_4.label = imagen de prueva
+panorama_28372C3F_2348_2E31_41AF_2CB7AA120EFD.label = FOTO 1
+panorama_29CA0885_2348_16D0_41B9_18ED4A622E9F.label = FOTO 12 H1
+panorama_29CA311E_2348_77F3_41AE_9206EEC7F82D.label = FOTO 14 B H1
+panorama_29CA4A9A_2348_2AF3_41BA_4D47E866F8BE.label = FOTO 4
+panorama_29CA4B5D_2348_6A71_41B1_0BB05F9609D1.label = FOTO 6 H2
+panorama_29CA4BC1_2348_2A50_41B7_CBAC9C365607.label = FOTO 13 C H1
+panorama_29CA7B9B_2348_2AF1_4139_4DDB22264706.label = FOTO 8 B H2
+panorama_29CA8BAB_2348_6AD1_41B6_6EE7237B6667.label = FOTO 7 H2
+panorama_29CA9C16_2348_2DF3_4197_0EEB818C60C5.label = FOTO 5
+panorama_29CACA14_2348_15F7_41B6_6B10085BB50A.label = FOTO 10 CH2
+panorama_29CAE971_2348_F631_41BE_B84F24DD75AB.label = FOTO 11 H1
+panorama_29CB9BAC_2349_EAD7_41B7_E559E6A43E84.label = FOTO 3
+panorama_29CC7AAE_2348_2AD3_41A1_2FE8844F9744.label = FOTO 9 C H2
+panorama_29CE5DCA_2349_EE53_41A5_6E44D44A1D49.label = FOTO 2
+
+## Acción
+
+### URL
+LinkBehaviour_36026308_2348_7BDF_41A4_9D3EC856491C.source = https://www.instagram.com/constru_teddy/?hl=es
+LinkBehaviour_3683DBB5_234F_EA31_41C0_1F3BD53F72C6.source = https://api.whatsapp.com/send?phone=18097225146&text=saludos,%20estuve%20viendo%20los%20tours%20virtuales,%20mas%20informacion%20por%20favor!!
+LinkBehaviour_368E2BB4_234F_EA37_41B9_9503FDCE320B.source = https://www.instagram.com/constru_teddy/?hl=es
+LinkBehaviour_373057EF_2348_1A51_41B1_B59889D999FA.source = https://api.whatsapp.com/send?phone=18097225146&text=saludos,%20estuve%20viendo%20los%20tours%20virtuales,%20mas%20informacion%20por%20favor!!
