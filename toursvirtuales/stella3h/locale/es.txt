@@ -1,0 +1,41 @@
+#: locale=es
+
+## Tour
+
+### Descripción
+tour.description = Apartamento de 3 habitaciones
+
+### Título
+tour.name = STELLA
+
+## Media
+
+### Título
+album_5F05D29E_4E23_4686_41C9_469E7C627F71.label = Álbum de Fotos imagen de prueva
+album_5F05D29E_4E23_4686_41C9_469E7C627F71_0.label = imagen de prueva
+panorama_427B0216_49E3_4186_41BC_96E932B12A0C.label = 1
+panorama_431128AC_49EF_C28A_41D0_83FFC916310E.label = H3 B
+panorama_4311FAA9_49EF_C68A_41CF_50E9F91937F6.label = H2 B
+panorama_4378A371_49E3_479A_41CA_D2139A34ACC5.label = 3
+panorama_43791E0F_49E2_C186_41CE_408823A7F15D.label = 7
+panorama_43793565_49E2_C3BA_419E_204B53AF7987.label = 5
+panorama_43793B19_49E2_C78A_41CC_E362B2FDDD7E.label = 6
+panorama_43797361_49E2_C7BA_41D0_CE8A9982EAE5.label = 4
+panorama_437D83B6_49E3_4686_41B4_58A3918B19B2.label = 2
+panorama_437EF38C_49E5_468A_4143_2D39A543D108.label = H1 1
+panorama_437F2856_49E5_4186_41D1_E671D974CD8E.label = H1 C
+panorama_437F36E7_49E5_4E86_41CF_D6375547678B.label = H1 2
+panorama_437F53B9_49E5_C68A_41C0_0402DFC04EAB.label = H3 0
+panorama_437F7639_49E5_C18A_41D1_8E818742F6D2.label = H2 2
+panorama_437F7650_49E5_C19A_41CC_D9721FEB7254.label = H2 1
+panorama_437FB60E_49E5_4186_41A6_DF440CBFE154.label = H3 2
+panorama_437FC285_49E5_417A_41B2_E05975261F3A.label = H3 1
+panorama_4597BABA_49EF_468E_41D1_D081DA51DB63.label = H1 B
+
+## Acción
+
+### URL
+LinkBehaviour_58C6915F_4E2E_C386_41B2_50021A890AD2.source = https://api.whatsapp.com/send?phone=18097225146&text=saludos,%20estuve%20viendo%20los%20tours%20virtuales,%20mas%20informacion%20por%20favor!!
+LinkBehaviour_58F2D412_4E2D_419E_41D2_D2AE6DAAA6BD.source = https://www.instagram.com/constru_teddy/?hl=es
+LinkBehaviour_5F15FE8E_4E22_FE86_41C5_7B8FF97C4EE8.source = https://www.instagram.com/constru_teddy/?hl=es
+LinkBehaviour_5F3E1C50_4E2D_419A_41B6_8A82C216DC1C.source = https://api.whatsapp.com/send?phone=18097225146&text=saludos,%20estuve%20viendo%20los%20tours%20virtuales,%20mas%20informacion%20por%20favor!!
