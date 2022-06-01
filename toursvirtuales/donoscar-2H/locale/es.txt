@@ -1,0 +1,30 @@
+#: locale=es
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Sin Título 9
+
+## Media
+
+### Título
+panorama_1C608AC9_17DE_B154_41A0_342AD4EA5B5B.label = 1
+panorama_1D4C708A_17E1_D1D4_41AC_A0FF57CA7801.label = h1 2
+panorama_1D4C873F_17E1_DF2C_41B5_7DDBCB45F356.label = h2 2
+panorama_1D4CE349_17E1_F754_41B1_39D4B40D42E2.label = h2 1
+panorama_1D72EBAD_17DE_772C_4195_6D197010DC36.label = baño
+panorama_1D7330F6_17DE_D13F_4199_AF12AE5E5DEB.label = 3
+panorama_1D733657_17DE_517C_4191_E7B996045944.label = 5
+panorama_1D735E3B_17DE_5134_41B5_6EAD15CC6A97.label = h1 1
+panorama_1D737E77_17DE_D13C_41A3_4A5468D338D0.label = 2
+panorama_1D73A3B2_17DE_B734_41A2_29AD540628F5.label = 4
+
+## Acción
+
+### URL
+LinkBehaviour_100448DF_1D68_5ECD_41A7_BD09DDF7B4DC.source = https://api.whatsapp.com/send?phone=18097225146&text=saludos,%20estuve%20viendo%20los%20tours%20virtuales,%20mas%20informacion%20por%20favor!!
+LinkBehaviour_11314709_1D68_B335_4193_7EC78B743AF0.source = https://www.instagram.com/constru_teddy/?hl=es
+LinkBehaviour_11884573_1D68_57D4_41B8_B055A813D47C.source = https://api.whatsapp.com/send?phone=18097225146&text=saludos,%20estuve%20viendo%20los%20tours%20virtuales,%20mas%20informacion%20por%20favor!!
+LinkBehaviour_118C2817_1D69_BD5D_4198_AD81A12269F4.source = https://www.instagram.com/constru_teddy/?hl=es
