@@ -280,7 +280,7 @@ body.dark-theme {
 .filters__content {
   margin: 2rem 0 2.5rem;
   background-color: var(--text-color-lighten);
-  padding: .390rem;
+  padding: .375rem;
   border-radius: .75rem;
   display: flex;
   justify-content: space-between;

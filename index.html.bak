@@ -71,7 +71,9 @@
                     <button class="filters__button" data-target="#skills">
                         Stella Ocean Residences
                     </button>
-                     
+                     <button class="filters__button" data-target="#skills">
+                        FERNANDO III
+                    </button>
                 </ul>
 
                 <div class="filters__sections">
@@ -218,7 +220,7 @@
         <!--=============== FOOTER ===============-->
         <footer class="footer container">
             <span class="footer__copy">
-                &#169; BohiosPro
+                &#169; <a href="https://www.instagram.com/bohiospro/?hl=es-la">BohiosPro</a>
             </span>
         </footer>
 
