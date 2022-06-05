@@ -280,7 +280,7 @@ body.dark-theme {
 .filters__content {
   margin: 2rem 0 2.5rem;
   background-color: var(--text-color-lighten);
-  padding: .375rem;
+  padding: .390rem;
   border-radius: .75rem;
   display: flex;
   justify-content: space-between;
@@ -349,6 +349,7 @@ body.dark-theme {
 
 .projects__button {
   padding: .5rem;
+  margin: 2 2 2 2px;
 }
 
 .projects__card:hover .projects__modal {
