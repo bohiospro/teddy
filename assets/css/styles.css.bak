@@ -71,6 +71,7 @@ ul {
 a {
   text-decoration: none;
   color: var(--title-color);
+  
 }
 
 img {
@@ -131,7 +132,7 @@ body.dark-theme {
 
 /*=============== REUSABLE CSS CLASSES ===============*/
 .container {
-  max-width: 968px;
+  max-width: 980px;
   margin-left: 1.5rem;
   margin-right: 1.5rem;
 }
@@ -285,7 +286,7 @@ body.dark-theme {
   border-radius: .75rem;
   display: flex;
   justify-content: space-between;
-  column-gap: .5rem;
+  column-gap: .12rem;
 }
 
 .filters__button {
