@@ -64,7 +64,7 @@
             <section class="filters container">
                 <!--=============== FILTERS TABS ===============-->
                 
-				<ul class="filters__content">
+				  <!--=============== <ul class="filters__content">
                     <button class="filters__button filter-tab-active" data-target="#projects">
                         Residencial Aromas del Parque
                     </button>
@@ -72,13 +72,13 @@
                         Stella Ocean Residences
                     </button>
                      <button class="filters__button" data-target="#skills">
-                        FERNANDO III
+                        Don FERNANDO III
                     </button>
                 </ul>
 
                 <div class="filters__sections">
                     <!--=============== PROJECTS ===============-->
-                    
+                    <br>
 					<div class="projects__content grid filters__active" data-content id="projects">
                         
 						
