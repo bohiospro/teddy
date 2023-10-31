@@ -34,7 +34,7 @@ panorama_E6FFA369_EB90_DB42_41DA_77DA74568EA4.label = 2ps
 ## Acción
 
 ### URL
-LinkBehaviour_059CEE9B_0921_F7A4_419E_03230523B6B8.source = https://api.whatsapp.com/send?phone=18097225146&text=saludos,%20estuve%20viendo%20los%20tours%20virtuales,%20mas%20informacion%20por%20favor!!
+LinkBehaviour_059CEE9B_0921_F7A4_419E_03230523B6B8.source = https://api.whatsapp.com/send?phone=18097225265&text=saludos,%20estuve%20viendo%20los%20tours%20virtuales,%20mas%20informacion%20por%20favor!!
 LinkBehaviour_05C757E9_093E_B564_4187_A624E2581B8C.source = https://www.instagram.com/constru_teddy/?hl=es
-LinkBehaviour_0AC3F4E3_1A7D_EFC4_41B0_BBF4F02A4790.source = https://api.whatsapp.com/send?phone=18097225146&text=saludos,%20estuve%20viendo%20los%20tours%20virtuales,%20mas%20informacion%20por%20favor!!
+LinkBehaviour_0AC3F4E3_1A7D_EFC4_41B0_BBF4F02A4790.source = https://api.whatsapp.com/send?phone=18097225265&text=saludos,%20estuve%20viendo%20los%20tours%20virtuales,%20mas%20informacion%20por%20favor!!
 LinkBehaviour_0B70F4F7_1A7C_AFCD_419C_2C3B5059700E.source = https://www.instagram.com/constru_teddy/?hl=es
