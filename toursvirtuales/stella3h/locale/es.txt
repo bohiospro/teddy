@@ -35,7 +35,7 @@ panorama_4597BABA_49EF_468E_41D1_D081DA51DB63.label = H1 B
 ## Acción
 
 ### URL
-LinkBehaviour_58C6915F_4E2E_C386_41B2_50021A890AD2.source = https://api.whatsapp.com/send?phone=18097225146&text=saludos,%20estuve%20viendo%20los%20tours%20virtuales,%20mas%20informacion%20por%20favor!!
+LinkBehaviour_58C6915F_4E2E_C386_41B2_50021A890AD2.source = https://api.whatsapp.com/send?phone=18097225265&text=saludos,%20estuve%20viendo%20los%20tours%20virtuales,%20mas%20informacion%20por%20favor!!
 LinkBehaviour_58F2D412_4E2D_419E_41D2_D2AE6DAAA6BD.source = https://www.instagram.com/constru_teddy/?hl=es
 LinkBehaviour_5F15FE8E_4E22_FE86_41C5_7B8FF97C4EE8.source = https://www.instagram.com/constru_teddy/?hl=es
-LinkBehaviour_5F3E1C50_4E2D_419A_41B6_8A82C216DC1C.source = https://api.whatsapp.com/send?phone=18097225146&text=saludos,%20estuve%20viendo%20los%20tours%20virtuales,%20mas%20informacion%20por%20favor!!
+LinkBehaviour_5F3E1C50_4E2D_419A_41B6_8A82C216DC1C.source = https://api.whatsapp.com/send?phone=18097225265text=saludos,%20estuve%20viendo%20los%20tours%20virtuales,%20mas%20informacion%20por%20favor!!
